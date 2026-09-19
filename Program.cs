@@ -29,6 +29,7 @@ using System;
 //       );
 
 void func(int ?num){
+    var age = 89;
     var c = 34;
     if(num!=null){
         Console.Write(num+ " is the data");
