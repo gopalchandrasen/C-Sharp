@@ -29,7 +29,7 @@ using System;
 //       );
 
 void func(int ?num){
-    var data = 56;
+    var data = 578;
     if(num!=null){
         Console.Write(num+ " is the data");
     }
