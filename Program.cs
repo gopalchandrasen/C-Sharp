@@ -29,6 +29,7 @@ using System;
 //       );
 
 void func(int ?num){
+    var c = 34;
     if(num!=null){
         Console.Write(num+ " is the data");
     }
