@@ -19,3 +19,4 @@ void expFunction(string targetValue ="Initial Value")
     Console.WriteLine($"Target value: {initialValue}");
 }
 expFunction();
+
